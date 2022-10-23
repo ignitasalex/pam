@@ -1,0 +1,7 @@
+application\registerImg.class
+com\mycompany\pamp2\JAXRSConfiguration.class
+application\deleteImg.class
+com\mycompany\pamp2\resources\JavaEE8Resource.class
+application\error.class
+application\searchImg.class
+application\modifyImg.class
